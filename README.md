@@ -27,3 +27,6 @@ Cenię sobie **dokładność**, **niezawodność** i **praktyczne rezultaty**. W
 - Eksploruję możliwości łączenia **danych z AI generatywną i agentową**.
 - Szukam projektów i wyzwań, które pozwolą mi rozwijać się jako **Data Engineer** i realnie przyczyniać się do budowania stabilnych, skalowalnych rozwiązań opartych na danych.
 
+## Kontakt
+- **Email** [kacper050710@gmail.com](mailto:kacper050710@gmail.com)
+- **Linkedin** [linkedin.com/in/kacper-prusinski](https://www.linkedin.com/in/kacper-prusi%C5%84ski-134498283/)
