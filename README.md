@@ -17,8 +17,9 @@ I'm interested not only in data processing itself, but also in how it can be app
 * **Generative and agentic AI** — interested in applications of artificial intelligence in the context of data, automation, and intelligent decision-support systems.
 
 ## Stack I like to work with
-
+* **Programming languages**: Python, SQL
 * **Databases and data warehouses:** Oracle, SQL Server
+* **On-premiss data processing** SSIS, Informatica Powercenter
 * **Cloud and data processing:** Azure, Azure Data Factory, Apache Spark, Databricks, Synapse
 * **Orchestration and pipelines:** Apache Airflow
 * **AI coding assistants:** Claude Code, Codex, Kimi
