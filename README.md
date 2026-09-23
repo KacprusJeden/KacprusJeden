@@ -36,6 +36,6 @@ I value **precision**, **reliability**, and **practical results**. I believe tha
 * Exploring opportunities to combine **data with generative and agentic AI**.
 * Looking for projects and challenges that will allow me to grow as a **Data Engineer** and contribute to building stable, scalable data-driven solutions.
 
-## Kontakt
+## Contact
 - **Email** [kacper050710@gmail.com](mailto:kacper050710@gmail.com)
 - **Linkedin** [linkedin.com/in/kacper-prusinski](https://www.linkedin.com/in/kacper-prusi%C5%84ski-134498283/)
