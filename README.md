@@ -23,7 +23,7 @@ I'm interested not only in data processing itself, but also in how it can be app
 * **Cloud and data processing:** Azure, Azure Data Factory, Apache Spark, Databricks, Synapse
 * **Orchestration and pipelines:** Apache Airflow
 * **AI coding assistants:** Claude Code, Codex, Kimi
-* **On my learning roadmap:** N8N, MCP, LangChain, LangGraph, Microsoft Foundry
+* **On my learning roadmap:** Microsoft Fabrics, N8N, MCP, LangChain, LangGraph, Microsoft Foundry
 
 ## How I approach work
 
